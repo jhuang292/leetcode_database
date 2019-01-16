@@ -1,0 +1,11 @@
+Inner Join:
+	select all records from Table A and Table B, where the join condition is met.
+
+Left Join:
+	Select all records from Table A, along with records from Table B for which the join condition is met.
+
+Right Join:
+	Select all records from Table B, along with records from Table A for which the join condition is met.
+
+Full Join:
+	Select all records from Table A and Table B, regardless of whether the join condition is met or not.
